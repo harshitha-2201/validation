@@ -1,0 +1,48 @@
+.formcontainer{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding: 10px;
+}
+.formtag{
+    
+    margin: 80px;
+    padding: 50px;
+    background-color: rgb(106, 144, 144);
+
+}
+label{
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+input{
+    padding: 6px;
+   background-color: black;
+   color: white;
+}
+h1{
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center;
+}
+button{
+    width: 100px;
+    padding: 8px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.errmsg{
+    color: rgb(229, 10, 10);
+}
+p{
+    background-color: rgb(106, 144, 144);
+    padding: 100px;
+    color: white;
+    font-size: 30px;
+
+}
+.links{
+    color: white;
+    text-decoration: none;
+    
+}
